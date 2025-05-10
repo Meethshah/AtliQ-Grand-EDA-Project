@@ -1,1 +1,0 @@
-# AtliQ-Grand-EDA-Project
